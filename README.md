@@ -1,7 +1,7 @@
 ### 🍋Hi
 <p>
 <a href="https://github.com/SIHYEONee"><img src="https://img.shields.io/badge/github-181717?style=flat-square&logo=github&logoColor=white">
-<img src="https://img.shields.io/badge/gmail-EA4335?style=flat-square&logo=gmail&logoColor=white&link=mailto:ls477656@gmail.com">
+<a href="mailto:ls477656@gmail.com"><img src="https://img.shields.io/badge/gmail-EA4335?style=flat-square&logo=gmail&logoColor=white">
 
 </p>
 
