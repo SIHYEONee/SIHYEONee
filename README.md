@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=Egg&color=FF7C62&height=200&section=header&text=🍋Hi%20there&fontSize=90&fontColor=FFFFFF)
+![header](https://capsule-render.vercel.app/api?type=Waving&color=FF7C62&height=200&section=header&text=🍋Hi%20there&fontSize=75&fontColor=FFFFFF)
 
 ### 🍋 ABOUT ME
 <p>
