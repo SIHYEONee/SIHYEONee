@@ -61,8 +61,8 @@
     
  ### 👩‍💻 My Github Stats
 
-![Git stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=SIHYEONee&show_icons=true&theme=dracula)
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=SIHYEONee&layout=compact&show_icons=true&theme=dracula)
+![Git stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=SIHYEONee&hide_title=true&show_owner=true&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=SIHYEONee&layout=compact&show_icons=true&theme=tokyonight)
     
     
     
