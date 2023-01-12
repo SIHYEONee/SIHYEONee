@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=Waving&color=FF7C62&height=200&section=header&text=🍋Hi%20there&fontSize=75&fontColor=FFFFFF)
+![header](https://capsule-render.vercel.app/api?type=Waving&color=c597fc&height=200&section=header&text=🍋Hi%20there&fontSize=75&fontColor=FFFFFF)
 
 ### 🍋 ABOUT ME
 <p>
@@ -19,7 +19,7 @@
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white">
   <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white">
-<p>
+</p>
 
 #### ⚙ Tools
 <p>
@@ -44,21 +44,37 @@
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white">
   <img src="https://img.shields.io/badge/Gradle-02303A?style=flat-square&logo=gradle&logoColor=white">
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white">
-  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white">
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white">
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white">
   <img src="https://img.shields.io/badge/django-092E20?style=flat-square&logo=django&logoColor=white">
+  <br>
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white">
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white">
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=white">
-  <img src="https://img.shields.io/badge/bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white">
-  
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white">
+  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white">
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white">
+
   
   </p>
+    
+-----
+    
+ ### 👩‍💻 My Github Stats
 
-
-  
+![Git stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=SIHYEONee&show_icons=true&theme=dracula)
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=SIHYEONee&layout=compact&show_icons=true&theme=dracula)
+    
+    
+    
+    
+    
+    
+    
 <!--
 
 
+색상코드
+FF7C62
 
 <img src="https://img.shields.io/badge/쓰고자하는_텍스트-컬러코드?style=flat-square&logo=simpleicons에서_아이콘이름&logoColor=white"/></a>&nbsp 
 
@@ -78,6 +94,7 @@ style=flat-square
 <h3>👩‍💻 My Github Stats</h3>
     
 <div>
+![Git stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=SIHYEONee&&show_icons=true&theme=다크)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?SIHYEONee=anuraghazra&show_icons=true&bg_color=00000000)
 </div>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SIHYEONee&show_icons=true&theme=shades-of-purple)
