@@ -71,8 +71,11 @@
 
 
 뱃지 스타일
-style=for-the-badge
+style=plastic
+style=flat
 style=flat-square
+style=for-the-badge
+style=social
 
 
   <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white">
