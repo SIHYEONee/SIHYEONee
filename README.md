@@ -1,14 +1,14 @@
 ![header](https://capsule-render.vercel.app/api?type=Waving&color=c597fc&height=200&section=header&text=🍋Hi%20there&fontSize=75&fontColor=FFFFFF)
 
-### 🍋 ABOUT ME
+## 🍋 ABOUT ME
 <p>
   <a href="https://github.com/SIHYEONee"><img src="https://img.shields.io/badge/Github-181717?style=flat-square&logo=github&logoColor=white">
   <a href="mailto:ls477656@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white">
 </p>
 
-----
 
-### 💪 SKILLS 
+
+## 💪 SKILLS 
     
 
 #### 🛠 Languages & Database
@@ -28,8 +28,7 @@
   <img src="https://img.shields.io/badge/IntelliJ-000000?style=flat-square&logo=intellijidea&logoColor=white">
   <img src="https://img.shields.io/badge/VSCode-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white">
   </p>
-  
-  -----
+
   
   #### 📓 Studying..
   <p>
@@ -51,10 +50,11 @@
   <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white">  
   </p>
     
------
+##
+    
 ### 🗂 PROJECT
     
------
+##
     
  ### 👩‍💻 My Github Stats
 
