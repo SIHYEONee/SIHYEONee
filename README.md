@@ -42,30 +42,17 @@
   <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white">
   <img src="https://img.shields.io/badge/Gradle-02303A?style=flat-square&logo=gradle&logoColor=white">
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white">
-
-  <br>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white">
   <img src="https://img.shields.io/badge/django-092E20?style=flat-square&logo=django&logoColor=white">
   <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white">
   <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white">  
   </p>
     
-##
+
     
 ### 🗂 PROJECT
     
-##
-    
- ### 👩‍💻 My Github Stats
-
-![Git stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=SIHYEONee&hide_title=true&show_owner=true&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=SIHYEONee&layout=compact&show_icons=true&theme=tokyonight)
-    
-    
-    
-    
-    
-    
+## 
     
 <!--
 
