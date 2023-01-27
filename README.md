@@ -1,50 +1,43 @@
 ![header](https://capsule-render.vercel.app/api?type=Waving&color=c597fc&height=200&section=header&text=🍋Hi%20there&fontSize=75&fontColor=FFFFFF)
 
-## 🍋 ABOUT ME
-<p>
-  <a href=""><img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=notion&logoColor=white">
-  <a href="https://github.com/SIHYEONee"><img src="https://img.shields.io/badge/Github-181717?style=flat-square&logo=github&logoColor=white">
-  <a href="mailto:ls477656@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white">
-</p>
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSIHYEONee%2Fhit-counter&count_bg=%23FFF124&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
-
+## 🍋 ABOUT ME 
+  <p>
+    <a href=""><img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=notion&logoColor=white">
+    <a href="https://github.com/SIHYEONee"><img src="https://img.shields.io/badge/Github-181717?style=flat-square&logo=github&logoColor=white">
+    <a href="mailto:ls477656@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white">
+  </p>
 
 ## 💪 SKILLS 
     
-
 #### 🛠 Languages & Database
-<p>
-  <img src="https://img.shields.io/badge/JAVA-007396?style=flat-square&logo=openjdk&logoColor=white">
-  <img src="https://img.shields.io/badge/ORACLE-F80000?style=flat-square&logo=oracle&logoColor=white">
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white">
-  <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white">
-</p>
-
-#### ⚙ Tools
-<p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white">
-  <img src="https://img.shields.io/badge/Eclipse-2C2255?style=flat-square&logo=eclipseide&logoColor=white">
-  <img src="https://img.shields.io/badge/IntelliJ-000000?style=flat-square&logo=intellijidea&logoColor=white">
-  <img src="https://img.shields.io/badge/VSCode-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white">
+  <p>
+    <img src="https://img.shields.io/badge/JAVA-007396?style=flat-square&logo=openjdk&logoColor=white">
+    <img src="https://img.shields.io/badge/ORACLE-F80000?style=flat-square&logo=oracle&logoColor=white">
+    <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white">
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white">
+    <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white">
+    <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white">
   </p>
 
-  
+  #### ⚙ Tools
+  <p>
+    <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white">
+    <img src="https://img.shields.io/badge/Eclipse-2C2255?style=flat-square&logo=eclipseide&logoColor=white">
+    <img src="https://img.shields.io/badge/IntelliJ-000000?style=flat-square&logo=intellijidea&logoColor=white">
+    <img src="https://img.shields.io/badge/VSCode-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white">
+  </p>
+ 
   #### 📓 Studying..
   <p>
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white">
 
   </p>
-  
+    
+## 🗂 PROJECT
 
-    
 
-    
-### 🗂 PROJECT
-    
-## 
-    
 <!--
 
   #### 🎈 Interested in..
