@@ -37,6 +37,16 @@
 
   </p>
   
+
+    
+
+    
+### 🗂 PROJECT
+    
+## 
+    
+<!--
+
   #### 🎈 Interested in..
   <p>
     <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white">
@@ -48,14 +58,6 @@
   <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white">
   <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white">  
   </p>
-    
-
-    
-### 🗂 PROJECT
-    
-## 
-    
-<!--
 
 
 뱃지 스타일
