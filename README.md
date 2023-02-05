@@ -4,7 +4,7 @@
   <p>
     <a href=""><img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=notion&logoColor=white">
     <a href="https://github.com/SIHYEONee/TIL.git"><img src="https://img.shields.io/badge/Std.Blog-181717?style=flat-square&logo=github&logoColor=white">
-    <a href="mailto:ls477656@gmail.com"><img src="https://img.shields.io/badge/sihyeon.leeee@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white">
+    <a href="mailto:sihyeon.leeee@gmail.com"><img src="https://img.shields.io/badge/sihyeon.leeee@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white">
   </p>
 
 ## 💪 SKILLS 
