@@ -1,11 +1,12 @@
 ## 🍋 I'm Sihyeon Lee 
 <div> 
   <img align="right" src="http://mazandi.herokuapp.com/api?handle=sleeee&theme=warm"/>
-  <a href="https://.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSIHYEONee%2Fhit-counter&count_bg=%23FFD900&title_bg=%23FFAC16&icon=github.svg&icon_color=%23000343&title=&edge_flat=false"/></a><br>
-  <a href="mailto:sihyeon.leeee@gmail.com"><img src="https://img.shields.io/badge/sihyeon.leeee@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" /></a>
+  <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSIHYEONee%2Fhit-counter&count_bg=%23FFD900&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=&edge_flat=false"/></a>
   <br>
   <a href=""><img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=notion&logoColor=white" /></a>
   <a href="https://github.com/SIHYEONee/TIL.git"><img src="https://img.shields.io/badge/Std.Blog-181717?style=flat-square&logo=github&logoColor=white" /></a>
+  <br>
+  <a href="mailto:sihyeon.leeee@gmail.com"><img src="https://img.shields.io/badge/sihyeon.leeee@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" /></a>
   <br>
   <br>
   <br>
