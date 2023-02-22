@@ -1,6 +1,6 @@
 ## 🍋 I'm Sihyeon Lee 
 <div> 
-  <img align="right" src="http://mazandi.herokuapp.com/api?handle=sleeee&theme=warm"/>
+  <img align="right" src="http://mazandi.herokuapp.com/api?handle=sleeee&theme=cold"/>
   <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSIHYEONee%2Fhit-counter&count_bg=%23FFD900&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=&edge_flat=false"/></a>
   <br>
   <a href=""><img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=notion&logoColor=white" /></a>
@@ -32,14 +32,14 @@
 #### 📓 Studying..
 <div>
 <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white">
-<img src="https://img.shields.io/badge/Spring Security-6DB33F?style=flat-square&logo=springsecurity&logoColor=white">
 <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white">
 <img src="https://img.shields.io/badge/Gradle-02303A?style=flat-square&logo=gradle&logoColor=white">
 </div>    
 
   #### 🎈 Interested in..
 <div>
-   <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white">
+  <img src="https://img.shields.io/badge/Spring Security-6DB33F?style=flat-square&logo=springsecurity&logoColor=white">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white">
 </div>
 
 
