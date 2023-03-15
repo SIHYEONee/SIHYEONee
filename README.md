@@ -46,7 +46,7 @@
 
 #### 💡 Algorithm study
 <p>
-  <img src="http://mazandi.herokuapp.com/api?handle=sleeee&theme=cold"/><br>
+  <img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=sleeee"/><br>
   <a href="https://github.com/SIHYEONee/coding-test-prac.git">Git</a>
 </p>
 
