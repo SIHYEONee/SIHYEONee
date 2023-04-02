@@ -24,6 +24,8 @@
   <br>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=white">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white">
+  <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white">
+  <img src="https://img.shields.io/badge/BootStrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white">
   <br>
   <img src="https://img.shields.io/badge/Eclipse IDE-2C2255?style=flat&logo=eclipseide&logoColor=white">
   <img src="https://img.shields.io/badge/IntelliJ IDE-000000?style=flat&logo=intellijidea&logoColor=white">
@@ -47,7 +49,8 @@
 #### 💡 Algorithm study
 <p>
   <img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=sleeee"/><br>
-  <a href="https://github.com/SIHYEONee/coding-test-prac.git">Git</a>
+  <a href="https://github.com/SIHYEONee/coding-test-prac.git">Baekjoon & Programmers </a><br>
+  <a href="https://github.com/SIHYEONee/python-for-coding-test.git">이코테 </a><br>
 </p>
 
 ## 🗂 PROJECT
@@ -56,7 +59,7 @@
 </p>
 
 <!--
-<img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white">
+
 <img src="https://img.shields.io/badge/Oracle DB-F80000?style=flat-square&logo=oracle&logoColor=white">
 <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white">
 <img src="https://img.shields.io/badge/Gradle-02303A?style=flat&logo=gradle&logoColor=white">
