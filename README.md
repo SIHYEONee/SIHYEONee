@@ -6,7 +6,7 @@
   <a href=""><img src="https://img.shields.io/badge/Portfolio-000000?style=flat&logo=notion&logoColor=white" /></a>
   <a href="https://github.com/SIHYEONee/TIL.git"><img src="https://img.shields.io/badge/Std.Blog-181717?style=flat&logo=github&logoColor=white" /></a>
   <br>
-  <a href="mailto:sihyeon.leeee@gmail.com"><img src="https://img.shields.io/badge/sihyeon.leeee@gmail.com-EA4335?style=flat&logo=gmail&logoColor=white" /></a>
+ 
   <br>
   <br>
   <br>
@@ -60,8 +60,12 @@
 
 <!--
 
+ <a href="mailto:sihyeon.leeee@gmail.com"><img src="https://img.shields.io/badge/sihyeon.leeee@gmail.com-EA4335?style=flat&logo=gmail&logoColor=white" /></a>
+
 <img src="https://img.shields.io/badge/Oracle DB-F80000?style=flat-square&logo=oracle&logoColor=white">
 <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white">
 <img src="https://img.shields.io/badge/Gradle-02303A?style=flat&logo=gradle&logoColor=white">
+
+
 
 -->
