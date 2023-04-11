@@ -50,7 +50,6 @@
 <p>
   <img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=sleeee"/><br>
   <a href="https://github.com/SIHYEONee/coding-test-prac.git">Baekjoon & Programmers </a><br>
-  <a href="https://github.com/SIHYEONee/python-for-coding-test.git">이코테 </a><br>
 </p>
 
 ## 🗂 PROJECT
