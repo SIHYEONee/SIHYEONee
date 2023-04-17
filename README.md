@@ -3,10 +3,6 @@
   
   <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSIHYEONee%2Fhit-counter&count_bg=%23FFD900&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=&edge_flat=false"/></a>
   <br>
-  <a href=""><img src="https://img.shields.io/badge/Portfolio-000000?style=flat&logo=notion&logoColor=white" /></a>
-  <a href="https://github.com/SIHYEONee/TIL.git"><img src="https://img.shields.io/badge/Std.Blog-181717?style=flat&logo=github&logoColor=white" /></a>
-  <br>
- 
   <br>
   <br>
   <br>
@@ -17,6 +13,7 @@
 ## 💪🛠 SKILL
 <p>
   <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=openjdk&logoColor=white">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white">
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=white">
   <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat&logo=springboot&logoColor=white">
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white">
@@ -31,22 +28,9 @@
   <img src="https://img.shields.io/badge/IntelliJ IDE-000000?style=flat&logo=intellijidea&logoColor=white">
   <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white">
 </p>
- 
-#### 📓 Studying..
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white">
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=white">
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white">
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white">
-</p>    
 
-  #### 🎈 Interested in..
-<p>
-  <img src="https://img.shields.io/badge/Spring Security-6DB33F?style=flat&logo=springsecurity&logoColor=white">
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white">
-</p>
 
-#### 💡 Algorithm study
+## 💡 Algorithm study
 <p>
   <img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=sleeee"/><br>
   <a href="https://github.com/SIHYEONee/coding-test-prac.git">Baekjoon & Programmers </a><br>
